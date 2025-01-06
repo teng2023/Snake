@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1654073674 source:d:\µ{¦¡\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"function.h"
+
+1654073566 source:d:\µ{¦¡\snake\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"function.h"
+
+1652449663 source:d:\µ{¦¡\snake\object.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1654073434 d:\µ{¦¡\snake\function.h
+

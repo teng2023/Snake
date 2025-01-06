@@ -1,0 +1,15 @@
+void border();
+void snake();
+void fruit();
+void obstacle();
+void eat_fruit(int *x,int *y,int *fx,int *fy,int *body_number);
+void information(int body_number,int loop_time,time_t t1,time_t t2);
+int obstacle_crash(int *ox,int *oy,int snake_x,int snake_y);
+int snake_crash(int *x,int *y,int body_number);
+int exceed_border(int *x,int *y,int body_number);
+void speed(int body_number);
+int direction(COORD *current_xy,int *x,int *y,int body_number);
+int object_vs_obstacle(int *fx,int *fy,int *ox,int *oy);
+void generate_fruit(int *fx,int *fy,int *fruit_remain,int *ox,int *oy);
+int game_start();
+void gameover(int z);
