@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A classic game written by C.
+A classic game written by C, compiled by CodeBlocks.
 
 ## Download and play
 Download "bin/Debug/snake.exe"
